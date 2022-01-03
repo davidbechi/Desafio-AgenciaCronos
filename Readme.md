@@ -11,7 +11,7 @@
 # Ilustração do projeto
    <h1 align="center"></h1>
   
-   <img src="imagens/projetoilus.jpg"/>
+  <img src="imagens/CRONOS-logo-white.png"
    
  # Tecnologias
   
@@ -51,6 +51,6 @@ No primeiro momento, você vai precisar ter instalado em sua máquina as seguint
 
 Made with 👨‍💻 
 
-[<img src="https://avatars.githubusercontent.com/u/62619506?v=4" width=115>Bruna Elisabete<br><sub></sub>](https://github.com/BrunaDuarte-3321) |  [<img src="https://avatars.githubusercontent.com/u/13066239?v=4" width=115><br><sub>Raphael Muniz</sub>](https://github.com/raphaelsmuniz) |  [<img src="https://avatars.githubusercontent.com/u/52297085?v=4" width=115><br><sub>David Bechi</sub>](https://github.com/davidbechi) 
+[<img src="https://avatars.githubusercontent.com/u/62619506?v=4" width=115> <br><sub>Bruna Duarte</sub>](https://github.com/BrunaDuarte-3321) |  [<img src="https://avatars.githubusercontent.com/u/13066239?v=4" width=115><br><sub>Raphael Muniz</sub>](https://github.com/raphaelsmuniz) |  [<img src="https://avatars.githubusercontent.com/u/52297085?v=4" width=115><br><sub>David Bechi</sub>](https://github.com/davidbechi) 
 
 
