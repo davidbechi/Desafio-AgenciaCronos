@@ -33,10 +33,10 @@ No primeiro momento, você vai precisar ter instalado em sua máquina as seguint
 
  ```bash
  # Clone este repositório
- $ git clone <https://github.com/davidbechi/LojaCasasMaria.git>
+ $ git clone <https://github.com/davidbechi/Desafio-AgenciaCronos.git>
 
  # Acesse a pasta do projeto no terminal/cmd
- $ cd LojaCasasMaria
+ $ cd Desafio-AgenciaCronos
 
  # Instale as dependências
  $ yarn 
