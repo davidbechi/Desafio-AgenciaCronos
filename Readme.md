@@ -5,7 +5,7 @@
 
 # Sobre 
 
-  <p> Esse projeto foi desenvolvido em grupo, com o intuito de dar continuidade ao desenvolvimento da página, que implementou a funcionalidade CRUD (criar, editar, e deletar), renderizar uma página com o React. </p>
+  <p> Esse projeto foi desenvolvido em grupo, com o intuito de dar continuidade ao desenvolvimento da página, nós implementamos a funcionalidade CRUD (criar, editar, e deletar) e renderizamos a página com o React. </p>
 
 
 # Ilustração do projeto 
@@ -20,7 +20,7 @@
   - CSS3
   - HTML5
   - JAVASCRIPT
-  - REAGIR
+  - REACT
 
 
 # Pré-requisitos 
@@ -29,19 +29,21 @@ No primeiro momento, você vai precisar ter instalado em sua máquina as seguint
 <a href="https://git-scm.com"> Git </a>.
  Além disso é bom ter um editor para trabalhar com o código, recomendo o: <a href="https://code.visualstudio.com/"> VS Code </a>.
 
+### 👨‍💻 Rodando o código
 
-### 👨‍💻 Rodando o código 
-
- `` `bash
+ ```bash
  # Clone este repositório
- $ git clone < https://github.com/davidbechi/Desafio-AgenciaCronos.git >
- # Acesse a pasta do projeto no terminal / cmd
- $ cd Desafio-AgenciaCronos
- # Instale como dependências
+ $ git clone <https://github.com/davidbechi/LojaCasasMaria.git>
+
+ # Acesse a pasta do projeto no terminal/cmd
+ $ cd LojaCasasMaria
+
+ # Instale as dependências
  $ yarn 
- # Executar um aplicativo em modo de desenvolvimento
+
+ # Execute a aplicação em modo de desenvolvimento
  $ yarn start
- `` `
+ ```
 
 
 ## Autores 
