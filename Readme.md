@@ -5,7 +5,7 @@
 
 # Sobre 
 
-  <p> Esse projeto foi desenvolvido em grupo, com o intuito de dar continuidade ao desenvolvimento da página, nós implementamos a funcionalidade CRUD (criar, editar, e deletar) e renderizamos a página com o React. </p>
+  <p> Esse projeto foi desenvolvido em grupo, com o intuito de dar continuidade ao desenvolvimento da página, nós implementamos a funcionalidade CRUD (criar, editar, atualizar e deletar) e renderizamos a página com o React. </p>
 
 
 # Ilustração do projeto 
