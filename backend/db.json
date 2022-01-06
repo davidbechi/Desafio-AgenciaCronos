@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "Python",
+      "imagem": "",
+      "descricao": "curso de python 2",
+      "id": 8
+    },
+    {
+      "name": "teste",
+      "imagem": "C:\\fakepath\\banner-marketing.png",
+      "descricao": "teste",
+      "id": 9
+    }
+  ]
+}
