@@ -62,7 +62,7 @@ export default class UserCrud extends Component {
                   />
                 </div>
               </div>
-              <div className="col">
+              <div className="col2">
                 <div className="form-group">
                   <label>Imagem</label>
                   <input
@@ -74,7 +74,7 @@ export default class UserCrud extends Component {
                   />
                 </div>
               </div>
-              <div className="col">
+              <div className="col3">
                 <div className="form-group">
                   <label>Descrição</label>
                   <input
@@ -109,15 +109,15 @@ export default class UserCrud extends Component {
   }
   renderTable() {
     return (
-      <section id="servicos" class="py-5 mb-5">
+      <section id="servicosbot" class="py-5 mb-5">
         <div className="container">
           <div className="row">
-            <div className="col">
+            <div className="colcursos">
               <tabble className="table mt-5">
                 <thead>
                   <tr>
                     <th>Nome</th>
-                    <th>Imagem</th>
+                    <th >Imagem</th>
                     <th>Descrição</th>
                     <th>Ações</th>
                   </tr>

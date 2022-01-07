@@ -71,7 +71,7 @@ h4 {
 
 h3 {
   font-size: 25px;
-  margin: 30px 0;
+  margin: 30px 0px 0px -16px;
 }
 
 .container .btn.btn-primary {
@@ -83,15 +83,72 @@ h3 {
   background-color: #0097a7;
   border-color: #0097a7;
   text-transform: uppercase;
-  margin: 10px 0;
+  margin: 10px 0px 6px -18px;
 }
 
-.container .form .row .col {
+.container .form .row .col{
   display: flex;
   flex-direction: column;
+  max-width: 250px;
+  right: 15px;
+  
+ 
 }
 
+  .col2{
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin-right: 25px;
+
+  }
+  .col3{
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin-left: 5px;
+  }
 table img {
   width: 220px;
   border: 1px solid #ccc;
 }
+
+
+@media only screen and (max-width: 480px) {
+  .container .form .row .col   {
+      width: 300px;
+      display: flex;
+  }
+
+   .col3{
+      display: flex;    
+      width: 210px;
+      margin: 0px 0px 0px 0px;
+      
+      
+   }
+
+   .col2{
+    display: flex;
+    margin-right: 100px;
+    width: 210px;   
+   
+ }
+
+ .container .btn.btn-primary {
+
+        margin: 10px 15px 10px -10px;
+ }
+ 
+    header img{
+      width: 100px;
+      margin: 0 auto;
+
+    }
+
+      .colcursos{
+        width: 10px;
+        margin: 0px;
+      }
+
+    }
