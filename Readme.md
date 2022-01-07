@@ -11,7 +11,7 @@
 # Ilustração do projeto 
    <h1 align = "center"> </h1>
    <p>Tela Inicial</p>
-   <img src = "imagens/telainicial.png" />
+   <img src = "imagens/telainicial2.png" />
 
    <p>Layout Responsivo<p>
    <img src= "imagens/responsividade.png" />
