@@ -5,7 +5,7 @@
 
 # Sobre 
 
-  <p> Esse projeto foi desenvolvido em grupo, com o intuito de dar continuidade ao desenvolvimento da página, nós implementamos a funcionalidade CRUD (criar, editar, atualizar e deletar) e renderizamos a página com o React. </p>
+  <p> Esse projeto foi desenvolvido em grupo, com o intuito de dar continuidade ao desenvolvimento da página, nós implementamos a funcionalidade CRUD (criar, editar, atualizar e deletar) e renderizarmos a página com o React. </p>
 
 
 # Ilustração do projeto 
@@ -48,7 +48,7 @@ No primeiro momento, você vai precisar ter instalado em sua máquina as seguint
 
 ## Autores 
 
-Feito com 👨‍💻 
+Feito por 👨‍💻 
 
 | [<img src="https://avatars.githubusercontent.com/u/62619506?v=4" width=115><br><sub>Bruna Duarte</sub>](https://github.com/BrunaDuarte-3321) |  [<img src="https://avatars.githubusercontent.com/u/13066239?v=4" width=115><br><sub>Raphael Muniz</sub>](https://github.com/raphaelsmuniz) |  [<img src="https://avatars.githubusercontent.com/u/52297085?v=4" width=115><br><sub>David Bechi</sub>](https://github.com/davidbechi) |
 | :---: | :---: | :---: |
