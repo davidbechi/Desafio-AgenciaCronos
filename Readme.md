@@ -10,8 +10,11 @@
 
 # Ilustração do projeto 
    <h1 align = "center"> </h1>
+   <p>Tela Inicial</p>
+   <img src = "imagens/telainicial.png" />
 
-   <img src = "imagens/projetoilust.png" />
+   <p>Layout Responsivo<p>
+   <img src= "imagens/responsividade.png" />
 
  # Tecnologias
 
@@ -26,8 +29,9 @@
 # Pré-requisitos 
 
 No primeiro momento, você vai precisar ter instalado em sua máquina as seguintes ferramentas 🛠: 
-<a href="https://git-scm.com"> Git </a>.
+<a href="https://git-scm.com"> Git </a>, e para esse projeto é necessário ter instalado em sua máquina o <a href="https://nodejs.org/en/"> NodeJs </a>.
  Além disso é bom ter um editor para trabalhar com o código, recomendo o: <a href="https://code.visualstudio.com/"> VS Code </a>.
+ 
 
 ### 👨‍💻 Rodando o código
 
@@ -39,10 +43,10 @@ No primeiro momento, você vai precisar ter instalado em sua máquina as seguint
  $ cd Desafio-AgenciaCronos
 
  # Instale as dependências
- $ yarn 
+ $ npm install 
 
  # Execute a aplicação em modo de desenvolvimento
- $ yarn start
+ $ npm start
  ```
 
 
