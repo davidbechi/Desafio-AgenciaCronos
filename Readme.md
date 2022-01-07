@@ -39,13 +39,22 @@ No primeiro momento, você vai precisar ter instalado em sua máquina as seguint
  # Clone este repositório
  $ git clone <https://github.com/davidbechi/Desafio-AgenciaCronos.git>
 
- # Acesse a pasta do projeto no terminal/cmd
+ # Acesse a pasta do projeto pelo terminal do VS Code
  $ cd Desafio-AgenciaCronos
 
- # Instale as dependências
+ # Dendro da pasta \Desafio-AgenciaCronos, instale as dependências pelo terminal do VS Code
  $ npm install 
 
- # Execute a aplicação em modo de desenvolvimento
+ # Entre dentro da pasta Backend pelo terminal do VS Code
+ $ cd backend
+
+ # Execute a aplicação Backend em modo de desenvolvimento
+ $ npm start
+
+  # Em um outro terminal do VS Code, entre dentro da pasta Frontend
+ $ cd frontend
+
+ # Execute a aplicação Frontend em modo de desenvolvimento
  $ npm start
  ```
 
