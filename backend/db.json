@@ -1,3 +1,10 @@
 {
-  "users": []
+  "users": [
+    {
+      "name": "Produtividade Pessoal",
+      "imagem": "C:\\fakepath\\banner-marketing.png",
+      "descricao": "sfsgsfgs",
+      "id": 1
+    }
+  ]
 }
